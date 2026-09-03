@@ -1,0 +1,35 @@
+# last test for hahaha.txt, weird.txt, hehehe.txt.
+> add hahaha.txt
+Not in an initialized Gitlet directory.
+<<<
+> init
+<<<
++ hahaha.txt hahaha.txt
+> add hahaha.txt
+<<<
++ hehehe.txt hehehe.txt
+> add hehehe.txt
+<<<
+> add hehehe.txt
+<<<
+> commit "hehehe and hahaha"
+<<<
+> commit "again commit"
+No changes added to the commit.
+<<<
+> checkout what
+No such branch exists.
+<<<
+# lilijiexinku
+> branch what
+<<<
+# sheizhipanzhongcan
+> checkout what
+<<<
+# handihexiatu
+> checkout master
+<<<
+# chuheridangwu
+> branch what
+A branch with that name already exists.
+<<<

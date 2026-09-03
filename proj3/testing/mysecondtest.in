@@ -1,0 +1,28 @@
+# another test for hahaha.txt.
+> init
+<<<
++ hahaha.txt hahaha.txt
+> add hahaha.txt
+<<<
++ same.txt hahaha.txt
+> add same.txt
+<<<
+> rm same.txt
+<<<
+# wojiubuxinnibuguo
+> rm blabla.txt
+No reason to remove the file.
+<<<
+# hongzhangboqingbo
+> commit "still have hahaha"
+<<<
+# baimaofulvshui
+> commit "wrong commit"
+No changes added to the commit.
+<<<
+# eeequxiangxiangtiange
+> branch thisone
+<<<
+> branch thisone
+A branch with that name already exists.
+<<<

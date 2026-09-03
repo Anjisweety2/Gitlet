@@ -1,0 +1,27 @@
+> init
+<<<
++ hehehe.txt hehehe.txt
+> add hehehe.txt
+<<<
+> commit "just a laugh"
+<<<
+> branch bad
+<<<
+> checkout bad
+<<<
++ hehe.txt weird.txt
+> add hehe.txt
+<<<
+# chuang han sha zi sha zi
+> commit "this is a bad word."
+<<<
+# yihang bai lu shang qing tian
+> checkout master
+<<<
+# liang ge huanglimingcuiliu
+> merge bad
+Current branch fast-forwarded.
+<<<
+> init
+A Gitlet version-control system already exists in the current directory.
+<<<
